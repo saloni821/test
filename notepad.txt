@@ -1,1 +1,13 @@
-hello i am using notepad.
+class main{
+public static void main(String args[]){
+System.out.print("are you hungry?");
+Scanner sc= new Scanner(System.in);
+String s=sc.next();
+if(s=='yes){
+System.out.print("Eat cake");
+}
+else
+System.out.print("Do homework");
+}
+}
+
