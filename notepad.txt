@@ -5,8 +5,6 @@ Scanner sc= new Scanner(System.in);
 String s=sc.next();
 if(s=='yes){
 System.out.print("Eat cake");
-System.out.print("Eat pancake");
-System.out.print("Eat pie");
 }
 else
 System.out.print("Do homework");
