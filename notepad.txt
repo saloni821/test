@@ -5,7 +5,8 @@ Scanner sc= new Scanner(System.in);
 String s=sc.next();
 if(s=='yes){
 System.out.print("Eat cake");
-hiiii
+System.out.print("Eat burger");
+System.out.print("Eat pizza");
 }
 else
 System.out.print("Do homework");
